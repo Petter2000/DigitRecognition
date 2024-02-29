@@ -8,4 +8,6 @@ Additionally, the project includes visualization utilities to display batches of
 
 In summary, this project serves as both an educational tool and a practical solution for image classification tasks, demonstrating the effectiveness of CNNs and the robustness of PyTorch as a deep learning framework.
 
+[Preparations]
+
 To install the required dependencies, create and activate the venv, then use command pip install -r requirements.txt
