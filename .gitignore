@@ -10,6 +10,7 @@ __pycache__/
 /data/
 /models/
 /metrics/
+/predictions/
 
 # Distribution / packaging
 .Python
